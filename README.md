@@ -17,3 +17,7 @@ This project can be deployed in any server
 ## How To Contribute
 
 Anyone can help adding a simple file
+
+### Copyright
+
+2018, JL
