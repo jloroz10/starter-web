@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luis	jl@das.com	@dasld
 
 # THANKS
 
